@@ -1,7 +1,5 @@
 ﻿# UnMotivoMas
-Página web paraUn Motivo Más hola perra
-
-Victor que pedo
+Página web paraUn Motivo Más
 
 V.2
 
