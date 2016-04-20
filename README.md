@@ -1,8 +1,5 @@
 ﻿# UnMotivoMas
-Página web paraUn Motivo Más
-
-Hola soy yo, el charlie. Ya cloné esta feca. 
-Otra vez
+Página web para Un Motivo Más
 
 V.2
 
